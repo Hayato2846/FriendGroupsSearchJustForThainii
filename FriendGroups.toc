@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: Friend Groups Alternate
+## Author: Hayato
+## Version: 1.0
+
+## Notes: Addon managing your contact list with groups
+## SavedVariables: FriendGroups_SavedVars
+
+FriendGroups.lua
